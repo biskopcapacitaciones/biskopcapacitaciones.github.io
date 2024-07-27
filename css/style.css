@@ -449,9 +449,6 @@
     color: #FFFFFF;
 }
 
-.table-color thead th {
-    color: #55595E !important;
-}
-.table-color tbody th td {
-    color: #55595E !important;
+.table-color {
+    color: #010A35 !important;
 }
