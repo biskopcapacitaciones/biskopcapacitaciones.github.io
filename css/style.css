@@ -452,6 +452,6 @@
 .table-color thead th {
     color: #55595E !important;
 }
-.table-color tbody td {
+.table-color tbody th td {
     color: #55595E !important;
 }
