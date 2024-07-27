@@ -448,3 +448,10 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+.table-color thead th {
+    color: #55595E !important;
+}
+.table-color tbody td {
+    color: #55595E !important;
+}
